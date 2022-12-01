@@ -24,7 +24,7 @@ require (
 	github.com/prometheus/client_golang v1.13.0
 	github.com/rakutentech/jwk-go v1.0.1
 	github.com/rs/zerolog v1.28.0
-	github.com/spf13/cobra v0.0.7
+	github.com/spf13/cobra v1.6.1
 	github.com/stretchr/testify v1.8.0
 	github.com/vmihailenco/msgpack/v5 v5.3.5
 	go.uber.org/automaxprocs v1.5.1
@@ -45,7 +45,7 @@ require (
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/gomodule/redigo v1.8.9 // indirect
 	github.com/igm/sockjs-go/v3 v3.0.2 // indirect
-	github.com/inconshreveable/mousetrap v1.0.0 // indirect
+	github.com/inconshreveable/mousetrap v1.0.1 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/marten-seemann/qpack v0.2.1 // indirect
